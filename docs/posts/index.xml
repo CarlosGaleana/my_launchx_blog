@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://carlosgaleana.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://carlosgaleana.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlosgaleana.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola! Quiero contarte todo lo que he aprendido hasta ahora en este camino: -Python -Lógica de programación -Jupyter Notebooks -Command Line -Git -Github -HTML -CSS -JS -VUE -VUEX -Node JS Gracias poer leer, nos vemos en el próximo post.</description>
+    </item>
+    
+    <item>
       <title>La cultura en el desarrollo de software</title>
       <link>https://carlosgaleana.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
