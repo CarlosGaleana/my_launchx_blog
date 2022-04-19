@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Carlos Galeana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://carlosgaleana.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://carlosgaleana.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://carlosgaleana.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://carlosgaleana.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Hola! En este post quiero contarte como poner a andar un proyecto en JS: -Primero crea una carpeta donde vas a guardar tu proyecto -Con la terminal poner el comando: npm init -&amp;gt;Te creará un package.json -Si se desean utilizar test: npm install &amp;ndash;save-dev jest -&amp;gt;Te creará una carpeta node_modules -Para poder correr se usa: npm start -&amp;gt; Para poder usarla se necesita crear una ruta en package.json: &amp;ldquo;start&amp;rdquo;: &amp;ldquo;node index.</description>
+    </item>
+    
     <item>
       <title>Mi ruta de aprendizaje en LaunchX</title>
       <link>https://carlosgaleana.github.io/my_launchx_blog/posts/post_1/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://carlosgaleana.github.io/my_launchx_blog/posts/post_1/</guid>
       <description>Hola! Quiero contarte todo lo que he aprendido hasta ahora en este camino: -Python -Lógica de programación -Jupyter Notebooks -Command Line -Git -Github -HTML -CSS -JS -VUE -VUEX -Node JS Gracias poer leer, nos vemos en el próximo post.</description>
-    </item>
-    
-    <item>
-      <title>Mi ruta de aprendizaje en LaunchX</title>
-      <link>https://carlosgaleana.github.io/my_launchx_blog/posts/post_2/</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://carlosgaleana.github.io/my_launchx_blog/posts/post_2/</guid>
-      <description>Hola! En este post quiero contarte como poner a andar un proyecto en JS: -Primero crea una carpeta donde vas a guardar tu proyecto -Con la terminal poner el comando: npm init -&amp;gt;Te creará un package.json -Si se desean utilizar test: npm install &amp;ndash;save-dev jest -&amp;gt;Te creará una carpeta node_modules -Para poder correr se usa: npm start -&amp;gt; Para poder usarla se necesita crear una ruta en package.json: &amp;ldquo;start&amp;rdquo;: &amp;ldquo;node index.</description>
     </item>
     
     <item>
