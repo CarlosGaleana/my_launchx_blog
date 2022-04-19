@@ -1,5 +1,5 @@
 ---
-title: "Mi ruta de aprendizaje en LaunchX"
+title: "Proyectos JS"
 date: 2022-04-18
 description: 'En este post explicaré como hacer proyectos de JS'
 ---
